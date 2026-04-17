@@ -1,6 +1,6 @@
 <?php
 
-$nama = "Abdul";
+$nama = "Jamal";
 $umur = 20;
 $tinggi = 180;
 $kelas = "TIB SEMESTER 4";
